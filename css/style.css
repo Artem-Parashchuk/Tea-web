@@ -154,9 +154,6 @@ body {
     margin-right: auto;
   }
 
-  .header__inner {
-    /* position: relative; */
-  }
   .mobile-menu__close,
   .mobile-menu__about,
   .mobile-menu__footer {
@@ -452,8 +449,6 @@ body {
 .reviews {
   padding: 60px 0;
   background-color: rgba(247, 242, 234, 0.5);
-}
-.container {
 }
 .reviews__title {
   margin-bottom: 60px;
